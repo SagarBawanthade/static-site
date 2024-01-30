@@ -1,0 +1,180 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation Styles */
+nav {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.leftnav,
+.rightnav {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.button {
+    width: 100%;
+}
+
+/* Header Styles */
+.frame17 h1,
+.frame17 h1 span {
+    font-size: 36px;
+}
+
+.p-first,
+.frame17 h6,
+.btn1,
+.btn2 {
+    width: 100%;
+}
+
+/* Container Styles */
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+/* Image Frame Styles */
+.frame18 {
+    width: 100%;
+}
+
+/* Stats Section Styles */
+.stats,
+.landing-stats,
+.frame33,
+.div1,
+.div2,
+.frame41,
+.image,
+.info,
+.showmore,
+.frame45 {
+    flex-direction: column;
+    gap: 16px;
+}
+
+/* Headings Styles */
+.headings h1 {
+    font-size: 32px;
+}
+
+.headings p {
+    font-size: 14px;
+}
+
+/* Benefits Tiles Styles */
+.BenifitsTiles,
+.cheflogo,
+.frame48,
+.frame47,
+.benifitslistitem,
+.section4 h1 {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.benifitsh2 {
+    font-size: 24px;
+}
+
+.benifitsp {
+    font-size: 14px;
+}
+
+/* Advantage Image Styles */
+.advantageimg img {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+}
+
+/* Hero Review Styles */
+.heroreview {
+    right: 0;
+}
+
+.heroreview h3,
+.heroreview p {
+    text-align: left;
+}
+
+/* Section 5 Styles */
+.section5div {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.frame50Left h1 {
+    font-size: 24px;
+}
+
+.frame50Left p {
+    font-size: 14px;
+}
+
+.frame50Right p {
+    left: 0;
+    text-align: left;
+}
+
+/* Section 7 Styles */
+.section7 img {
+    width: 100%;
+    height: auto;
+}
+
+/* Frame 80 and Frame 81 Navigation Styles */
+.frame80nav h1,
+.frame81nav h1 {
+    font-size: 24px;
+}
+
+/* Frame 86 Styles */
+.frame86 {
+    margin-left: 0;
+}
+
+/* Paragraph Styles */
+.para {
+    padding: 8px;
+}
+
+/* Cook Article Styles */
+.cookarticle {
+    margin-bottom: 16px;
+}
+
+.cookarticle img {
+    width: 100%;
+    height: auto;
+}
+
+.cookarticle h2 {
+    font-size: 16px;
+}
+
+.cookarticle p6 {
+    font-size: 14px;
+}
+
+/* Desktop Footer Styles */
+.desktopfooter img {
+    width: 100%;
+    height: auto;
+}
+
+/* Media Query for Larger Screens */
+@media screen and (min-width: 600px) {
+    /* Add your larger screen styles here */
+}
